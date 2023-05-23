@@ -1,3 +1,5 @@
+This is a mini project in which I built a mock-up music band website with shopping cart feature, about page and upcoming concert schedule component.
+
 # Live Demo
 Link: https://case-2.github.io/mockup-website/
 
